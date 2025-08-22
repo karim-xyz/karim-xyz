@@ -1,6 +1,12 @@
-# 💫 About Me:
-👋 Hi, I'm Abdelkarim  <br>I'm a beginner developer passionate about programming.<br>I love building cool and useful projects. <br>- 🌱 I’m currently learning JavaScript and advancing in Python.<br>- 🤝 I’m looking to collaborate on beginner-friendly projects.<br>- 💬 You can message me whenever you want.<br>- ⚡ I enjoy learning new tech and solving problems.
+# About Me
 
+Hello — I'm Abdelkarim, an aspiring software developer who enjoys building practical, user-focused projects. I am committed to continuous learning and to improving my ability to design clean, maintainable solutions.
+
+* Current focus: learning modern JavaScript while advancing my Python skills.
+
+* Collaboration: I’m interested in contributing to beginner-friendly open source projects and working with other learners.
+
+* Availability: I welcome messages about collaboration, feedback, or mentoring.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdelkarim.xyz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelkarim-abchi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/karim_xyz_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdelkarim2dev@gmail.com) 
